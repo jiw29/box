@@ -1,6 +1,8 @@
 # box
 box for develop laravel in development ,pleae not use for production. 
 
+download URL:http://pan.baidu.com/s/1i3f5Zoh
+
 # What In Box
 
 * centos v6.5
